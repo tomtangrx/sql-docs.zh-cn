@@ -26,7 +26,7 @@ ms.locfileid: "52529521"
 > [!NOTE]  
 > 本教程需要 Microsoft SQL Server Data Tools。  
 >   
-> 有关安装 SQL Server Data Tools 的详细信息，请参阅 [SQL Server Data Tools 下载](https://msdn.microsoft.com/data/hh297027)。  
+> 有关安装 SQL Server Data Tools 的详细信息，请参阅 [SQL Server Data Tools 下载](https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017)。  
   
 ### <a name="to-create-a-new-integration-services-project"></a>创建新的 Integration Services 项目  
   
